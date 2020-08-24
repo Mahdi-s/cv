@@ -1,8 +1,60 @@
 body {
   background-color: #edffea;
 }
+
 hr {
-  border-color: #216353;
+  border-color: #557571;
   border-style: dashed none none;
   border-width: 15px;
+}
+
+h1 {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+.extra-padding{
+  padding: 3%
+}
+
+.container-fluid{
+  padding: 3% 15%
+}
+
+.navbar {
+  font-family: "Ubuntu";
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding-bottom: 1.6rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: sans-serif;
+}
+
+.cunt1-padding {
+  padding-top: 3rem;
+  padding-left: 22rem;
+  padding-right: 2rem;
+}
+.cunt2-padding{
+  padding-top: 3rem;
+  padding-left: 30rem;
+  padding-right: 2rem;
+}
+.cunt3-padding{
+  padding-top: 3rem;
+  padding-left: 30rem;
+  padding-right: 20rem;
+}
+
+#title {
+  background-color: #8fc0a9
 }
